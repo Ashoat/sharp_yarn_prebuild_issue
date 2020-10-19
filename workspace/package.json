@@ -1,0 +1,7 @@
+{
+  "name": "workspace",
+  "version": "0.0.1",
+  "dependencies": {
+    "sharp": "^0.26.2"
+  }
+}
