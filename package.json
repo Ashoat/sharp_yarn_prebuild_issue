@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "workspaces": [
-    "workspace"
-  ]
+  "dependencies": {
+    "sharp": "^0.26.2"
+  }
 }
